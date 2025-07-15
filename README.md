@@ -16,3 +16,6 @@ It allows users to upload transaction CSV files, filter by date/category, and re
 
 ## Author
 [Ogbole Oche Samuel]
+[Bakare Daniel]
+[ojonye paul Joseph]
+[Ibrahim bashir]
